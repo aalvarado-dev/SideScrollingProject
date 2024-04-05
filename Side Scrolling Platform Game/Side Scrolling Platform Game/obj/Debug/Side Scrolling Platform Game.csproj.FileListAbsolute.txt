@@ -1,0 +1,21 @@
+c:\users\ruchm\source\repos\Side Scrolling Platform Game\Side Scrolling Platform Game\bin\Debug\Side Scrolling Platform Game.exe.config
+c:\users\ruchm\source\repos\Side Scrolling Platform Game\Side Scrolling Platform Game\bin\Debug\Side Scrolling Platform Game.exe
+c:\users\ruchm\source\repos\Side Scrolling Platform Game\Side Scrolling Platform Game\bin\Debug\Side Scrolling Platform Game.pdb
+c:\users\ruchm\source\repos\Side Scrolling Platform Game\Side Scrolling Platform Game\obj\Debug\Side Scrolling Platform Game.csprojResolveAssemblyReference.cache
+c:\users\ruchm\source\repos\Side Scrolling Platform Game\Side Scrolling Platform Game\obj\Debug\Side_Scrolling_Platform_Game.Form1.resources
+c:\users\ruchm\source\repos\Side Scrolling Platform Game\Side Scrolling Platform Game\obj\Debug\Side_Scrolling_Platform_Game.Properties.Resources.resources
+c:\users\ruchm\source\repos\Side Scrolling Platform Game\Side Scrolling Platform Game\obj\Debug\Side Scrolling Platform Game.csproj.GenerateResource.Cache
+c:\users\ruchm\source\repos\Side Scrolling Platform Game\Side Scrolling Platform Game\obj\Debug\Side Scrolling Platform Game.csproj.CoreCompileInputs.cache
+c:\users\ruchm\source\repos\Side Scrolling Platform Game\Side Scrolling Platform Game\obj\Debug\Side Scrolling Platform Game.exe
+c:\users\ruchm\source\repos\Side Scrolling Platform Game\Side Scrolling Platform Game\obj\Debug\Side Scrolling Platform Game.pdb
+C:\Users\alvar\Downloads\Side Scrolling Platform Game\Side Scrolling Platform Game\Side Scrolling Platform Game\bin\Debug\Side Scrolling Platform Game.exe.config
+C:\Users\alvar\Downloads\Side Scrolling Platform Game\Side Scrolling Platform Game\Side Scrolling Platform Game\bin\Debug\Side Scrolling Platform Game.exe
+C:\Users\alvar\Downloads\Side Scrolling Platform Game\Side Scrolling Platform Game\Side Scrolling Platform Game\bin\Debug\Side Scrolling Platform Game.pdb
+C:\Users\alvar\Downloads\Side Scrolling Platform Game\Side Scrolling Platform Game\Side Scrolling Platform Game\obj\Debug\Side Scrolling Platform Game.csproj.AssemblyReference.cache
+C:\Users\alvar\Downloads\Side Scrolling Platform Game\Side Scrolling Platform Game\Side Scrolling Platform Game\obj\Debug\Side_Scrolling_Platform_Game.Form1.resources
+C:\Users\alvar\Downloads\Side Scrolling Platform Game\Side Scrolling Platform Game\Side Scrolling Platform Game\obj\Debug\Side_Scrolling_Platform_Game.Properties.Resources.resources
+C:\Users\alvar\Downloads\Side Scrolling Platform Game\Side Scrolling Platform Game\Side Scrolling Platform Game\obj\Debug\Side Scrolling Platform Game.csproj.GenerateResource.cache
+C:\Users\alvar\Downloads\Side Scrolling Platform Game\Side Scrolling Platform Game\Side Scrolling Platform Game\obj\Debug\Side Scrolling Platform Game.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Downloads\Side Scrolling Platform Game\Side Scrolling Platform Game\Side Scrolling Platform Game\obj\Debug\Side Scrolling Platform Game.exe
+C:\Users\alvar\Downloads\Side Scrolling Platform Game\Side Scrolling Platform Game\Side Scrolling Platform Game\obj\Debug\Side Scrolling Platform Game.pdb
+C:\Users\alvar\Downloads\Side Scrolling Platform Game\Side Scrolling Platform Game\Side Scrolling Platform Game\obj\Debug\Side_Scrolling_Platform_Game.Form2.resources
